@@ -18,5 +18,17 @@
   "scripts": {
     "test-silent": "jest --runInBand || exit 0",
     "tests": "tests --runInBand"
-  }
+  },
+  "description": "Make sure to change the `name` inside the `package.json`! And **fork** this repo, not clone!",
+  "main": "jest.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aseel-Issa/matrices-lesson-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aseel-Issa/matrices-lesson-exercises/issues"
+  },
+  "homepage": "https://github.com/Aseel-Issa/matrices-lesson-exercises#readme"
 }
